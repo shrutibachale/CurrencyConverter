@@ -21,5 +21,5 @@ A responsive currency converter web application built using React and Exchange R
 ```bash
 git clone https://github.com/shrutibachale/CurrencyConverter.git
 ## 🌐 Live Demo
-https://currencyswapfix.netlify.app
+https://currencyswapconvert.netlify.app/
 
